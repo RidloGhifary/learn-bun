@@ -2,6 +2,9 @@
   "name": "learn-bun",
   "module": "index.ts",
   "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "@types/react": "^18.3.3"
