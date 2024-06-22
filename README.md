@@ -1,15 +1,7 @@
 # learn-bun
 
-To install dependencies:
+## Environment Variable
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- As a default bun will read .env file
+- Bun automatically read .env file without any additional library
+- But, if we add a value to environment variable `NODE_ENV`
