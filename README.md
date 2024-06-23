@@ -18,7 +18,7 @@
 
 ## Benchmark Bun vs Deno vs NodeJS
 
-![alt text](<Screen Shot 2024-06-23 at 14.33.38.png>)
+![alt text](<assets/Screen Shot 2024-06-23 at 14.33.38.png>)
 
 ## Install Bun
 
